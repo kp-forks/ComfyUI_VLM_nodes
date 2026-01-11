@@ -1,11 +1,12 @@
-<div align="center">
-  <h1> 👁️ VLM Nodes</h1>
-  <p align="center">
-    <b> 🔽Examples below</b>  •  
-    📙 <a href="https://github.com/gokayfem/Awesome-VLM-Architectures">Visit my other repo to learn more about Vision Language Models</a> 
-  </p>
-</div>
-<br/>
+  <div align="center">
+    <h1> 👁️ VLM Nodes</h1>
+    <p align="center">
+      <b> 🔽Examples below</b>  •
+      📙 <a href="https://github.com/gokayfem/Awesome-VLM-Architectures">Visit my other repo to learn more about Vision Language Models</a>  •
+      🔍 <a href="https://dualview.ai">Compare VLM outputs side-by-side with DualView</a>
+    </p>
+  </div>
+  <br/>
 
 ## Usage
 - For **Windows** and **Linux**
