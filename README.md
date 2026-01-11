@@ -22,6 +22,12 @@ git clone https://github.com/gokayfem/ComfyUI_VLM_nodes.git
 **If you get errors related to llama-cpp-python or if it is not using GPU.**  
 **I recommend installing it with the right arguments provided in this link [llama-cpp-python](https://github.com/abetlen/llama-cpp-python?tab=readme-ov-file#installation)**  
 
+## Tools
+
+| Tool | Description |
+|------|-------------|
+| [DualView](https://dualview.ai) | Free side-by-side comparison tool for VLM outputs, images, videos, and AI prompts |
+
 ## VLM Nodes
 Utilizes ```llama-cpp-python``` for integration of LLaVa models. You can load and use any VLM with LLaVa models in GGUF format with this nodes.   
 You need to download the model similar to ```ggml-model-q4_k.gguf``` and it's clip projector similar to ```mmproj-model-f16.gguf``` from this repositories (in the files and versions).  
